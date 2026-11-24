@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-labelledby="title description">
+  <title id="title">Multi-Branch Inventory &amp; Transfers</title>
+  <desc id="description">Ahmed Solangi | Odoo ERP Developer. Navy and indigo banner with a cyan inventory cube and routing lines.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081125"/><stop offset="1" stop-color="#1a1f48"/></linearGradient>
+    <linearGradient id="card" x2="0" y2="1"><stop stop-color="#182a49"/><stop offset="1" stop-color="#101c35"/></linearGradient>
+    <linearGradient id="signal" x2="1" y2="0"><stop stop-color="#307897"/><stop offset="1" stop-color="#6df5e0"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#4168eb" stop-opacity=".35"/><stop offset="1" stop-color="#4168eb" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8eb9ff" opacity=".16"/></pattern>
+  </defs>
+  <rect x="0" y="0" width="1200" height="160" rx="23" fill="url(#bg)" stroke="none"/>
+  <ellipse cx="924.0" cy="80.0" rx="348.0" ry="80.0" fill="url(#glow)"/>
+  <rect x="8" y="8" width="1184" height="144" rx="18" fill="url(#grid)" stroke="none"/>
+  <rect x="0.5" y="0.5" width="1199" height="159" rx="23" fill="none" stroke="#2e4268"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="36" y="39" width="82" height="82" rx="18" fill="url(#card)" stroke="#395780"/><g transform="translate(49 49) scale(0.94)"><path d="M30 6 53 19V45L30 58 7 45V19Z M7 19 30 32 53 19 M30 32V58" fill="none" stroke="#6df5e0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" /><path d="M7 19V45L30 58 53 45V19" fill="none" stroke="#8cacff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" /><circle cx="30" cy="6" r="7.0" fill="#6df5e0" opacity=".14"/><circle cx="30" cy="6" r="2.5" fill="#6df5e0"/><circle cx="7" cy="19" r="7.56" fill="#8cacff" opacity=".14"/><circle cx="7" cy="19" r="2.7" fill="#8cacff"/><circle cx="53" cy="19" r="7.56" fill="#6df5e0" opacity=".14"/><circle cx="53" cy="19" r="2.7" fill="#6df5e0"/><circle cx="30" cy="58" r="7.0" fill="#8cacff" opacity=".14"/><circle cx="30" cy="58" r="2.5" fill="#8cacff"/></g><text x="146" y="77" fill="#f3f8ff" font-size="49" font-weight="700" letter-spacing="0">Multi-Branch Inventory &amp; Transfers</text><text x="148" y="114" fill="#b8c8e5" font-size="23" font-weight="600" letter-spacing="0.4">Ahmed Solangi | Odoo ERP Developer</text><path d="M990 48H1022L1054 75H1166 M990 110H1034L1064 86H1138" fill="none" stroke="#3a5784" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" /><path d="M1005 94H1042L1073 62H1153" fill="none" stroke="url(#signal)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" /><circle cx="1005" cy="94" r="8.959999999999999" fill="#8cacff" opacity=".14"/><circle cx="1005" cy="94" r="3.2" fill="#8cacff"/><circle cx="1073" cy="62" r="8.959999999999999" fill="#6df5e0" opacity=".14"/><circle cx="1073" cy="62" r="3.2" fill="#6df5e0"/><circle cx="1153" cy="62" r="8.959999999999999" fill="#6df5e0" opacity=".14"/><circle cx="1153" cy="62" r="3.2" fill="#6df5e0"/>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="335" viewBox="0 0 1200 335" role="img" aria-labelledby="title description">
+  <title id="title">Warehouse stock visibility</title>
+  <desc id="description">Three warehouse columns can be compared for a product. Availability is on hand minus reserved stock. This diagram contains no quantities.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#080f23"/><stop offset="1" stop-color="#181c42"/>
+    </linearGradient>
+    <linearGradient id="panel" x2="0" y2="1">
+      <stop stop-color="#192943"/><stop offset="1" stop-color="#101a32"/>
+    </linearGradient>
+    <linearGradient id="wire" x2="1" y2="0">
+      <stop stop-color="#256781"/><stop offset="1" stop-color="#58eedb"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#3868d3" stop-opacity=".32"/><stop offset="1" stop-color="#3868d3" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#a0c3fb" opacity=".16"/>
+    </pattern>
+  </defs>
+  <g font-family="Segoe UI, Arial, sans-serif"><rect x="0" y="0" width="1200" height="335" rx="24" fill="url(#bg)" stroke="none" /><ellipse cx="768.0" cy="160.79999999999998" rx="432.0" ry="160.79999999999998" fill="url(#glow)"/><rect x="8" y="8" width="1184" height="319" rx="19" fill="url(#grid)" stroke="none" /><rect x="0.5" y="0.5" width="1199" height="334" rx="24" fill="none" stroke="#2b4064" /><text x="42" y="58" font-size="39" fill="#f3f8ff" font-weight="700" text-anchor="start" letter-spacing="0">Inventory visibility</text><text x="43" y="91" font-size="20" fill="#a9bddb" font-weight="500" text-anchor="start" letter-spacing="0">Compare a product across permitted warehouses.</text><rect x="948" y="36" width="210" height="38" rx="19" fill="#142b42" stroke="#2b5370" /><text x="1053" y="61" font-size="15" fill="#58eedb" font-weight="650" text-anchor="middle" letter-spacing="1.4">CONCEPTUAL VIEW</text><rect x="42" y="122" width="360" height="118" rx="16" fill="url(#panel)" stroke="#375176" /><g transform="translate(62 143) scale(0.87)"><path d="M4 16 24 5 44 16V40H4Z M12 40V22H36V40 M12 29H36 M12 35H36" fill="none" stroke="#58eedb" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round" /><path d="M20 13H28" fill="none" stroke="#58eedb" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round" /></g><text x="119" y="169" font-size="27" fill="#f3f8ff" font-weight="700" text-anchor="start" letter-spacing="0">Central</text><text x="120" y="202" font-size="15" fill="#58eedb" font-weight="650" text-anchor="start" letter-spacing="1">SA   /   IN SCOPE</text><rect x="420" y="122" width="360" height="118" rx="16" fill="url(#panel)" stroke="#375176" /><g transform="translate(440 143) scale(0.87)"><path d="M4 16 24 5 44 16V40H4Z M12 40V22H36V40 M12 29H36 M12 35H36" fill="none" stroke="#83a5ff" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round" /><path d="M20 13H28" fill="none" stroke="#83a5ff" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round" /></g><text x="497" y="169" font-size="27" fill="#f3f8ff" font-weight="700" text-anchor="start" letter-spacing="0">Retail</text><text x="498" y="202" font-size="15" fill="#83a5ff" font-weight="650" text-anchor="start" letter-spacing="1">RE   /   IN SCOPE</text><rect x="798" y="122" width="360" height="118" rx="16" fill="url(#panel)" stroke="#375176" /><g transform="translate(818 143) scale(0.87)"><path d="M4 16 24 5 44 16V40H4Z M12 40V22H36V40 M12 29H36 M12 35H36" fill="none" stroke="#72efb6" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round" /><path d="M20 13H28" fill="none" stroke="#72efb6" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round" /></g><text x="875" y="169" font-size="27" fill="#f3f8ff" font-weight="700" text-anchor="start" letter-spacing="0">Building Materials</text><text x="876" y="202" font-size="15" fill="#72efb6" font-weight="650" text-anchor="start" letter-spacing="1">BA   /   IN SCOPE</text><text x="600" y="289" font-size="28" fill="#f3f8ff" font-weight="650" text-anchor="middle" letter-spacing="0">On hand    −    Reserved    =    Available</text></g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-labelledby="title description">
+  <title id="title">Multi-branch inventory mark</title>
+  <desc id="description">Three routes meet at an isometric inventory cube.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#080f23"/><stop offset="1" stop-color="#181c42"/>
+    </linearGradient>
+    <linearGradient id="panel" x2="0" y2="1">
+      <stop stop-color="#192943"/><stop offset="1" stop-color="#101a32"/>
+    </linearGradient>
+    <linearGradient id="wire" x2="1" y2="0">
+      <stop stop-color="#256781"/><stop offset="1" stop-color="#58eedb"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#3868d3" stop-opacity=".32"/><stop offset="1" stop-color="#3868d3" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#a0c3fb" opacity=".16"/>
+    </pattern>
+  </defs>
+  <g font-family="Segoe UI, Arial, sans-serif"><rect x="0" y="0" width="96" height="96" rx="24" fill="url(#bg)" stroke="none" /><ellipse cx="61.44" cy="46.08" rx="34.56" ry="46.08" fill="url(#glow)"/><rect x="8" y="8" width="80" height="80" rx="19" fill="url(#grid)" stroke="none" /><rect x="0.5" y="0.5" width="95" height="95" rx="24" fill="none" stroke="#2b4064" /><g transform="translate(7 3) scale(1.28)"><path d="M32 12 53 24V47L32 59 11 47V24Z" fill="none" stroke="#35557d" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" /><path d="M32 12 53 24 32 36 11 24 M32 36V59" fill="none" stroke="#58eedb" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" /><path d="M11 24V47L32 59 53 47V24" fill="none" stroke="#83a5ff" stroke-width="1.75" stroke-linejoin="round" stroke-linecap="round" /><path d="M11 24 27 33 M32 36 46 28" fill="none" stroke="#d3fff9" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" /><circle cx="32" cy="12" r="3.5" fill="#58eedb" /><circle cx="53" cy="24" r="3.5" fill="#58eedb" /><circle cx="11" cy="24" r="3.5" fill="#83a5ff" /><circle cx="32" cy="59" r="3.5" fill="#83a5ff" /></g></g>
+</svg>
